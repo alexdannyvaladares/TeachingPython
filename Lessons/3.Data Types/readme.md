@@ -74,5 +74,7 @@ print(result)
 ```
 result :
 ```Python
+True
+False
 0
 ```
