@@ -13,29 +13,29 @@ Data is used at every point of programming and it can be important to understand
 of data you’re dealing with and the implications that come with it.
 
 * **int** is used where numbers are needed to be stored;
-  ```Python
+```Python
     number1= 1
     number2= 2 
     number3= 3
     print(number1)
     print(number2)
     print(number3)
-   ```
-  ```Python
+```
+```Python
   1
   2     
   3
    ```
 * **float** is used when decimals are needed;
-   ```Python
+```Python
     number1= 1.0
     number2= 2.2
     number3= 3.333333
     print(number1)
     print(number2)
     print(number3)
-   ```
-  ```Python
+```
+```Python
   1.0
   2.2   
   3.333333
@@ -67,7 +67,10 @@ This is accurate with the bit representation on very low level programming
 Assign_True= True
 Assign_False= False 
 result = Assign_True*Assign_False
+print(Assign_True)
+print(Assign_False)
 print(result)
+
 ```
 result :
 ```Python
