@@ -1,4 +1,5 @@
 
+# Data Types
 There are many different data types in Python, some are much more common than others. Some of the basic and most common data types in Python are:
 
 * int : this type of data consists of numbers and particularly integers.
@@ -7,7 +8,7 @@ There are many different data types in Python, some are much more common than ot
 
 **WARNING** : This lesson has relatively more reading parts.
 
-### Fundamentals
+## Fundamentals
 Data is used at every point of programming and it can be important to understand what type 
 of data you’re dealing with and the implications that come with it.
 
